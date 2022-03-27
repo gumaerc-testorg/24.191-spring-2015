@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f9908d7-0653-d301-8f66-c27532139d93
 resourcetype: Document
 title: MIT24_191S15_Fossil.pdf
 uid: 76ec70b5-dd7a-654e-ef75-4456f6fbdd4b

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Questions for Discussion
 parent_type: CourseSection
+parent_uid: 5dd8af74-6b8f-539c-28ee-46733dc53124
 resourcetype: Document
 title: MIT24_191S15_Meat.pdf
 uid: 96e8f51c-1823-44fd-57a9-7a9ba9cb0862

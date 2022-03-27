@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Course History and Design
 parent_type: CourseSection
+parent_uid: 24c2df02-b7e5-2853-7538-720da708b8ec
 resourcetype: Image
 title: radius.jpg
 uid: d9cc4ee0-a3a6-2b89-a5bc-4da115eb2b9b

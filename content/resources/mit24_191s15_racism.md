@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f9908d7-0653-d301-8f66-c27532139d93
 resourcetype: Document
 title: MIT24_191S15_Racism.pdf
 uid: f2ab921e-6d37-ce05-470b-88c36cb06910

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Questions for Discussion
 parent_type: CourseSection
+parent_uid: 5dd8af74-6b8f-539c-28ee-46733dc53124
 resourcetype: Document
 title: MIT24_191S15_Ecology.pdf
 uid: 68eafb38-60a0-b8ad-b546-4768c9a678cf

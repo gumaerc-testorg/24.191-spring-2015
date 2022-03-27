@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9bba826a-cd21-557f-90d9-341d62e3315f
 resourcetype: Document
 title: 24.191S15 Ethics In Your Life - Punishment and Justice Handout
 uid: d025814e-2213-3886-94e9-1a159635cac3

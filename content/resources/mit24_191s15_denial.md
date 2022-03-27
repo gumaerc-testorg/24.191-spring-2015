@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f9908d7-0653-d301-8f66-c27532139d93
 resourcetype: Document
 title: MIT24_191S15_Denial.pdf
 uid: e7e290bb-1ac0-4700-2d4d-d8d48063a5c4

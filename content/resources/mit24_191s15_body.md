@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Questions for Discussion
 parent_type: CourseSection
+parent_uid: 5dd8af74-6b8f-539c-28ee-46733dc53124
 resourcetype: Document
 title: MIT24_191S15_Body.pdf
 uid: 46067cef-72b1-a4f8-3932-b56f306b74d6

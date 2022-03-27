@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Questions for Discussion
 parent_type: CourseSection
+parent_uid: 5dd8af74-6b8f-539c-28ee-46733dc53124
 resourcetype: Document
 title: MIT24_191S15_Famine.pdf
 uid: a5b493d5-4aa3-7ac2-82d2-c79d3a1e7cbe
