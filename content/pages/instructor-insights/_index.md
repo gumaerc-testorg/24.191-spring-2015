@@ -1,68 +1,65 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 992b4fef-d7ac-adf4-88c1-7ee96924f948
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _24.191 Ethics in Your Life: Being, Thinking, Doing (or Not?)_ as it was taught by Prof. Sally Haslanger, Patricia-Maria Weinmann, and Brendan de Kenessey in Spring 2015.
 
 This course exposes students to a wide range of ethical issues. Guided discussions equip students for ongoing reflection and action. Lectures and discussions with guest faculty members, as well as attendance at on-and off-campus events, expose students to ethical problems and resources for addressing them.
 
-Course Outcomes
----------------
+## Course Outcomes
 
-_Course Goals for Students_
+### Course Goals for Students
 
-*   Develop relationships and share resources with students and instructors engaged in examining their ethical perspectives
-*   Explore tools for solving ethical problems
-*   Gain skills for clarifying personal and vocational principles
+- Develop relationships and share resources with students and instructors engaged in examining their ethical perspectives
+- Explore tools for solving ethical problems
+- Gain skills for clarifying personal and vocational principles
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
-_Prerequisites_
+### Prerequisites
 
 None
 
-_Requirements Satisfied_
+### Requirements Satisfied
 
 24.191 can be applied toward a Bachelor of Science degree in [Philosophy](http://web.mit.edu/philosophy/program1.html) or [Linguistics and Philosophy](http://web.mit.edu/philosophy/program2.html), but is not required.
 
-_Offered_
+### Offered
 
 Every spring semester
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 {{< quote "Almost all MIT students want to make a difference in the world, but many are not quite sure how to go about it. They´re overwhelmed by the task and they´re not sure how to start. We designed the course to help students identify small changes they can make in their everyday lives that will help them actualize the difference they hope to see." "—Patricia-Maria Weinmann" >}}
 
-_In the following pages, Patricia-Maria Weinmann and Brendan de Kenessey describe various aspects of how they taught_ _24.191 Ethics in Your Life: Being, Thinking, Doing (or Not?)_.
+_In the following pages, Patricia-Maria Weinmann and Brendan de Kenessey describe various aspects of how they taught_ 24.191 Ethics in Your Life: Being, Thinking, Doing (or Not?).
 
-*   [Course History and Design]({{< baseurl >}}/pages/instructor-insights/course-history-and-design)
-*   [Cultivating a Comfortable Classroom Culture]({{< baseurl >}}/pages/instructor-insights/cultivating-a-comfortable-classroom-culture)
-*   [Experimenting with a New Discussion Format: The Round Robin]({{< baseurl >}}/pages/instructor-insights/experimenting-with-a-new-discussion-format-the-round-robin)
+- {{% resource_link 24c2df02-b7e5-2853-7538-720da708b8ec "Course History and Design" %}}
+- {{% resource_link 65dc1681-ea60-78fa-173c-abc940e9c47e "Cultivating a Comfortable Classroom Culture" %}}
+- {{% resource_link 15c449b2-89e7-3517-7162-e826ef8b0d57 "Experimenting with a New Discussion Format: The Round Robin" %}}
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 Grading is pass/fail. The following components are considered when assessing students´ learning:
 
-_Class Participation_
+### Class Participation
 
 Each seminar meeting includes interactive teaching on a particular topic, designed to equip students for reflection and action. Students are expected to attend every seminar.
 
-_Events_
+### Events
 
 During the semester, students are expected to attend three [Radius](https://radius.mit.edu) events, public forums, or other pertinent lectures, films, plays, or panel discussions offered at MIT and beyond. Those who are unable to attend an event recommended by an instructor may substitute an alternative event approved by one of the instructors.
 
@@ -72,17 +69,17 @@ During the semester, students are expected to attend three [Radius](https://radi
 
 {{< /div-with-class >}}{{< div-with-class "toggle1">}}
 
-_Outside of Class_
+### Outside of Class
 
 Students are expected to be in dialogue with one another online between meetings through the class website. This is an excellent way to continue and deepen discussion begun during class.
 
-_Reading and Writing_
+### Reading and Writing
 
-There is very little required reading, but links to recommended readings and other resources can be found in the [Readings]({{< baseurl >}}/pages/readings) section. Students are encouraged to read the suggested material and explore additional resources for information.
+There is very little required reading, but links to recommended readings and other resources can be found in the {{% resource_link 9bba826a-cd21-557f-90d9-341d62e3315f "Readings" %}} section. Students are encouraged to read the suggested material and explore additional resources for information.
 
 Students are required to submit three short (roughly 250–300 word) reflection papers over the course of the term in response to the outside events they attend. The reflections are due at intervals during the semester.
 
-_Presentations_
+### Presentations
 
 During the last class of the term, each student gives a 5–7 minute presentation on their own ethical perspective, as developed over the course of the term.
 
@@ -90,41 +87,39 @@ There is no final exam.
 
 {{< /div-with-class >}}
 
-Student Information
--------------------
+## Student Information
 
-![About 30 students were enrolled in this course.]({{< resource_file 25038f18-1328-cb68-19e5-bf702d7973ae >}})
+### Enrollment
 
-_Breakdown by Year_
+About 30 students
+
+### Breakdown by Year
 
 Freshmen, sophomores, juniors, and seniors
 
-_Breakdown by Major_
+### Breakdown by Major
 
 Variety of majors
 
-_Typical Student Background_
+### Typical Student Background
 
 Students come from a variety of majors and are usually at different stages of their academic careers. They often say they value being able to discuss ethical issues with people they wouldn´t normally otherwise meet.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 6 hours on the course, roughly divided as follows:
 
-Seminar
--------
+### Seminar
 
-*   Met once a week for 1.5 hours per session; 11 sessions total; mandatory attendance.
-*   Class sessions were discussion-based. 
+- Met once a week for 1.5 hours per session; 11 sessions total; mandatory attendance.
+- Class sessions were discussion-based. 
 
-Out of Class
-------------
+### Out of Class
 
-*   Online responses to questions provided by the instructors
-*   Attendance at three [Radius](http://radius.mit.edu/) events, public forums, lectures, films, plays, or panel discussions
-*   Readings in preparation for class sessions
-*   Three reflection papers
-*   One presentation
+- Online responses to questions provided by the instructors
+- Attendance at three [Radius](http://radius.mit.edu/) events, public forums, lectures, films, plays, or panel discussions
+- Readings in preparation for class sessions
+- Three reflection papers
+- One presentation
