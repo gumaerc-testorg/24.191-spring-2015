@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/1519624ed0c4d6a6384d47294d10b3af_MIT24_191S15_Punishment.pdf
+file: /courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/1519624ed0c4d6a6384d47294d10b3af_MIT24_191S15_Punishment.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

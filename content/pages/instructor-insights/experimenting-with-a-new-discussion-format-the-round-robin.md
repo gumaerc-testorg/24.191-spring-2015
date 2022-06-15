@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section the two instructors describe how they engaged students
+  with round robin discussions.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

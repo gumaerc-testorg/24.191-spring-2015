@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section the two instructors talk about creating a comfortable
+  classroom culture and how it plays an important role in helping students engage
+  in honest discussions. '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

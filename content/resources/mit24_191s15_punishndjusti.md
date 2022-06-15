@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/d025814e2213388694e91a159635cac3_MIT24_191S15_PunishndJusti.pdf
+file: /courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/d025814e2213388694e91a159635cac3_MIT24_191S15_PunishndJusti.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
