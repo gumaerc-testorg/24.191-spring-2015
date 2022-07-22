@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, and requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e9eb8565-ec3c-c930-33d4-d6fdb829136d
 ---
@@ -38,7 +42,7 @@ Students will be expected to be in dialogue with one another online between meet
 
 ### Reading and Writing
 
-There is very little required reading, but links to recommended readings and other resources can be found in the [Readings]({{< baseurl >}}/pages/readings) section. Students are encouraged to read the suggested material and explore additional resources for information.
+There is very little required reading, but links to recommended readings and other resources can be found in the {{% resource_link 9bba826a-cd21-557f-90d9-341d62e3315f "Readings" %}} section. Students are encouraged to read the suggested material and explore additional resources for information.
 
 Students are required to submit three short (roughly 250–300 word) reflection papers over the course of the term in response to the outside events you attend. The reflections are due at intervals during the semester.
 

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and examples
+  of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9f9908d7-0653-d301-8f66-c27532139d93
 ---
@@ -38,14 +43,14 @@ The examples below appear courtesy of MIT students and are used with their permi
 
 ### Reflection Papers
 
-["American Denial" (PDF)]({{< baseurl >}}/resources/mit24_191s15_denial)
+{{% resource_link e7e290bb-1ac0-4700-2d4d-d8d48063a5c4 "\"American Denial\" (PDF)" %}}
 
-["Housing Dynamics and Displacement in Cambridge" (PDF)]({{< baseurl >}}/resources/mit24_191s15_housing)
+{{% resource_link bcba2a44-e01d-98bb-8cfc-9e2f2f88f33f "\"Housing Dynamics and Displacement in Cambridge\" (PDF)" %}}
 
-["MIT Fossil Fuel Divestment Debate" (PDF)]({{< baseurl >}}/resources/mit24_191s15_fossil)
+{{% resource_link 76ec70b5-dd7a-654e-ef75-4456f6fbdd4b "\"MIT Fossil Fuel Divestment Debate\" (PDF)" %}}
 
-["Slut: The Play" (PDF)]({{< baseurl >}}/resources/mit24_191s15_slut)
+{{% resource_link 3ac960b4-5950-2af7-33f4-35698c2ede0d "\"Slut: The Play\" (PDF)" %}}
 
 ### Final Presentation
 
-["Racism" (PDF)]({{< baseurl >}}/resources/mit24_191s15_racism)
+{{% resource_link f2ab921e-6d37-ce05-470b-88c36cb06910 "\"Racism\" (PDF)" %}}

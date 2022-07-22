@@ -1,34 +1,39 @@
 ---
 content_type: page
+description: This section contains details about the history of the course and how
+  the course was designed.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 992b4fef-d7ac-adf4-88c1-7ee96924f948
 title: Course History and Design
 uid: 24c2df02-b7e5-2853-7538-720da708b8ec
 ---
-
 _In this section, Patricia-Maria Weinmann and Brendan de Kenessy share how the ethics seminar grew of a partnership between the MIT Philosophy Department and the Technology and Culture Forum (now Radius). They discuss key aspects of the course design, including how philosophical methods and perspectives create a framework for engaging students in grounded discussions about issues that often spark heated and emotional responses._
 
-_![The word radius intercepting 5 concentric circles made of dots. A yellow line extends from a yellow dot at the center of the circle and accents the words: “Exploring ethics at the center of science and technology.” ]({{< resource_file d9cc4ee0-a3a6-2b89-a5bc-4da115eb2b9b >}})_
+ 
+
+{{< resource d9cc4ee0-a3a6-2b89-a5bc-4da115eb2b9b >}}
+
+ 
 
 [Radius](http://radius.mit.edu) logo, capturing the forum's focus on "exploring the ethics at the center of science and technology."
 
-Beginning with Radius
----------------------
+## Beginning with Radius
 
-_24.191 Being, Thinking, Doing (Or Not!): Ethics in Your Life_ grew out of a partnership between the MIT Philosophy Department and the Technology and Culture Forum (now known as [Radius](http://radius.mit.edu/about)). At the time of its founding in the 1950s, the Technology and Culture Forum was primarily attended by faculty members committed to discussing ethical issues at the core of scientific and technological endeavors. During the time of the Vietnam War, however, there was a feeling that the Technology and Culture forum needed to engage not only faculty, but also the wider MIT community in dialogues about how science and technology were shaping events in the world and how the community might work toward promoting a more just society. Fortunately, MIT emerged from that tumultuous era without any violence on campus, and since that time, the Technology and Culture Forum has involved the MIT community in thinking deeply about how ethics shape our work and how we live our lives.
+_24.191 Being, Thinking, Doing (Or Not!): Ethics in Your Life_ grew out of a partnership between the MIT Philosophy Department and the Technology and Culture Forum (now known as [Radius](http://radius.mit.edu/about)). At the time of its founding in the 1950s, the Technology and Culture Forum was primarily attended by faculty members committed to discussing ethical issues at the core of scientific and technological endeavors. During the time of the Vietnam War, however, there was a feeling that the Technology and Culture Forum needed to engage not only faculty, but also the wider MIT community in dialogues about how science and technology were shaping events in the world and how the community might work toward promoting a more just society. Fortunately, MIT emerged from that tumultuous era without any violence on campus, and since that time, the Technology and Culture Forum has involved the MIT community in thinking deeply about how ethics shape our work and how we live our lives.
 
 {{< quote "We thought it would be wonderful to create a course that would stretch students’ thinking about the role of ethics in everyday life, without stressing their minds and bodies." "—Patricia-Maria Weinmann" >}}
 
-Engaging Undergraduate Students
--------------------------------
+## Engaging Undergraduate Students
 
 While graduate students attend many Radius events on campus, undergraduate students tend to do so less frequently. Professor Sally Haslanger, a member of the Radius Steering Committee and a faculty member in the Philosophy Department, and I (Patricia-Maria), the Assistant Director of the Technology and Culture Forum, collaborated to offer the undergraduate ethics seminar to better reach these students.
 
 We thought it would be wonderful to create a course that would stretch students’ thinking about the role of ethics in everyday life, without stressing their minds and bodies. To accomplish this, we made the grading scheme in the ethics seminar pass/fail and decided to keep homework assignments to a minimum. Today the course involves suggested readings, three short reflections, a brief final presentation and fascinating guest speaker experiences. We tell students every year that the hardest part about this course is finding the classroom on the first day! What we mean by that statement is that the thinking is heavy, but the out-of-class demands are not.
 
-Making a Difference in the World through Small Changes
-------------------------------------------------------
+## Making a Difference in the World through Small Changes
 
 Almost all MIT students want to make a difference in the world, but many are not quite sure how to go about it. They’re overwhelmed by the task and they’re not sure how to start. We designed the course to help students identify small changes they can make in their everyday lives that will help them actualize the difference they hope to see.
 
@@ -36,8 +41,7 @@ One of the classes we facilitated this semester featured a panel of students who
 
 This was a powerful message for our students, because it demonstrated for them that if you’re passionate about an issue, but don’t have heaps of time to devote to it, you don’t have to shrug your shoulders and say, “Oh, well.” There are small things you can do to that will impact the situation. Indeed, one of the main messages we try to convey in the course is that students can make a difference in the world and it doesn’t have to swallow them up. There are contributions students can make that are compatible with their everyday lives.
 
-Leveraging Philosophy as a Framework for Discussion
----------------------------------------------------
+## Leveraging Philosophy as a Framework for Discussion
 
 The course is not explicitly about philosophy (our focus is not on philosophical works), but it is about discussing the choices students make in their daily lives—choices about politics, ethics, and practices. Philosophers are specialists in having discussions, pinpointing the heart of a disagreement, clarifying the different questions that arise around an issue, and separating issues from one another. The purpose of having a philosophy professor as a co-teacher in the course is to model rigorous argumentation and to infuse the discussions with philosophical perspectives and methods.
 

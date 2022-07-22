@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section the two instructors describe how they engaged students
+  with round robin discussions.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 992b4fef-d7ac-adf4-88c1-7ee96924f948
 title: 'Experimenting with a New Discussion Format: The Round Robin'
 uid: 15c449b2-89e7-3517-7162-e826ef8b0d57
