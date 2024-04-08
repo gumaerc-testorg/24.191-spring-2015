@@ -31,7 +31,7 @@ None
 
 ### Requirements Satisfied
 
-24.191 can be applied toward a Bachelor of Science degree in [Philosophy](http://web.mit.edu/philosophy/program1.html) or [Linguistics and Philosophy](http://web.mit.edu/philosophy/program2.html), but is not required.
+24.191 can be applied toward a Bachelor of Science degree in {{% resource_link "20ebc550-48aa-4da4-b4a0-1a1600192a56" "Philosophy" %}} or {{% resource_link "12b8ea13-5338-4544-b3ba-dc69d335df00" "Linguistics and Philosophy" %}}, but is not required.
 
 ### Offered
 
@@ -61,7 +61,7 @@ Each seminar meeting includes interactive teaching on a particular topic, design
 
 ### Events
 
-During the semester, students are expected to attend three [Radius](https://radius.mit.edu) events, public forums, or other pertinent lectures, films, plays, or panel discussions offered at MIT and beyond. Those who are unable to attend an event recommended by an instructor may substitute an alternative event approved by one of the instructors.
+During the semester, students are expected to attend three {{% resource_link "0e2bb3a9-e710-43ff-93f3-3d228cb78ef3" "Radius" %}} events, public forums, or other pertinent lectures, films, plays, or panel discussions offered at MIT and beyond. Those who are unable to attend an event recommended by an instructor may substitute an alternative event approved by one of the instructors.
 
 {{< div-with-class "reveal1">}}
 
@@ -119,7 +119,7 @@ During an average week, students were expected to spend 6 hours on the course, r
 ### Out of Class
 
 - Online responses to questions provided by the instructors
-- Attendance at three [Radius](http://radius.mit.edu/) events, public forums, lectures, films, plays, or panel discussions
+- Attendance at three {{% resource_link "0881ed58-b912-4b41-bf90-84064267c31c" "Radius" %}} events, public forums, lectures, films, plays, or panel discussions
 - Readings in preparation for class sessions
 - Three reflection papers
 - One presentation

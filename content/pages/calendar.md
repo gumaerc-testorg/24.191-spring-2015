@@ -34,7 +34,7 @@ KEY DATES
 Introduction
 
 _Screening:_  
-The Judith Butler, Peter Singer, and Slavoj Žižek sections of [_Examined Life_](http://www.imdb.com/title/tt1279083/). Directed by Astra Taylor. Color, 87 min. 2008.
+The Judith Butler, Peter Singer, and Slavoj Žižek sections of {{% resource_link "1cdf9c63-c714-4358-8338-849212a1e227" "_Examined Life_" %}}. Directed by Astra Taylor. Color, 87 min. 2008.
 
 
 {{< tdclose >}}
@@ -52,7 +52,7 @@ The Judith Butler, Peter Singer, and Slavoj Žižek sections of [_Examined Life_
 
 Racial Profiling
 
-_Guest:_ [_Adam Hosein_](https://cssh.northeastern.edu/faculty/adam-hosein/)_, Department of Philosophy, University of Colorado, Boulder_
+_Guest:_ {{% resource_link "6a29e20c-3dc3-4bae-86f5-18103a2728a5" "_Adam Hosein_" %}}_, Department of Philosophy, University of Colorado, Boulder_
 
 
 {{< tdclose >}}
@@ -70,7 +70,7 @@ _Guest:_ [_Adam Hosein_](https://cssh.northeastern.edu/faculty/adam-hosein/)_, D
 
 U.S. Criminal Punishment / Justice System
 
-_Guest:_ [_Erin Kelly_](http://as.tufts.edu/philosophy/people/faculty/kelly)_, Department of Philosophy, Tufts University_
+_Guest:_ {{% resource_link "bc3872d1-e361-4f44-846f-c74f50743a42" "_Erin Kelly_" %}}_, Department of Philosophy, Tufts University_
 
 
 {{< tdclose >}}
@@ -100,7 +100,7 @@ Punishment, Deterrence, Prisons
 
 Military Spending, Federal Spending; Universities' Research Budgets and Dollars Spent
 
-_Guest:_ [_Subrata Ghoshroy_](http://mit.edu/stgs/whoweare.html#3)_, Science, Technology and Global Security Working Group, Program in Science, Technology, and Society, MIT_
+_Guest:_ {{% resource_link "369dd263-2295-4929-adc6-0a2460aec1fb" "_Subrata Ghoshroy_" %}}_, Science, Technology and Global Security Working Group, Program in Science, Technology, and Society, MIT_
 
 
 {{< tdclose >}}
@@ -118,7 +118,7 @@ First Reflection Paper due
 
 Ethical Sustainable Farming Practices
 
-_Guests: [Kim Denney and Rich Jakshtis](http://chestnutfarms.org/?page_id=2525), [Chestnut Farms](http://chestnutfarm.org/)_
+_Guests: {{% resource_link "e5a10d4d-46ee-4f86-8765-62759e8909db" "Kim Denney and Rich Jakshtis" %}}, {{% resource_link "bc4b3309-2b92-40fd-af9f-ceabd396da60" "Chestnut Farms" %}}_
 
 
 {{< tdclose >}}
@@ -131,7 +131,7 @@ _Guests: [Kim Denney and Rich Jakshtis](http://chestnutfarms.org/?page_id=2525),
 {{< tdopen colspan="3" >}}
 
 
-_Screening:_ [_Independent Lens: American Denial_](http://www.imdb.com/title/tt4150400/?ref_=fn_al_tt_1). Directed by Llewellyn M. Smith. Color, 60 min. 2015.
+_Screening:_ {{% resource_link "32036b99-68d6-418c-82a5-96da02598a97" "_Independent Lens: American Denial_" %}}. Directed by Llewellyn M. Smith. Color, 60 min. 2015.
 
 _Note: Attendance is Optional_
 
@@ -148,7 +148,7 @@ _Note: Attendance is Optional_
 
 Gender and Gaming
 
-_Guest:_ [_Jessica Hammer_](http://www.hcii.cmu.edu/people/jessica-hammer)_, Human-Computer Interaction Institute, Carnegie Mellon University_
+_Guest:_ {{% resource_link "c1947393-995a-41c1-8ea6-9cc2195a1d83" "_Jessica Hammer_" %}}_, Human-Computer Interaction Institute, Carnegie Mellon University_
 
 
 {{< tdclose >}}
@@ -186,13 +186,13 @@ Student Activist Panel
 
 ### Panelists
 
-_Jay Hodges, a Ph.D. student in the_ _[Philosophy](http://web.mit.edu/philosophy/)_ _department at MIT, who is active in a wide range of political, activist, and protest groups. He will discuss the less conventional possibilities for activism: Civil disobedience, direct action, and person-to-person confrontation._
+_Jay Hodges, a Ph.D. student in the_ _{{% resource_link "085d5ba9-e9da-4a29-afb7-b48826f54e9c" "Philosophy" %}}_ _department at MIT, who is active in a wide range of political, activist, and protest groups. He will discuss the less conventional possibilities for activism: Civil disobedience, direct action, and person-to-person confrontation._
 
-_Rose Lenehan, a graduate student in the_ [_Philosophy_](http://web.mit.edu/philosophy/) _department MIT, volunteers for the_ [_Fossil Free MIT_](http://www.fossilfreemit.org/) _campaign. She will discuss her experience balancing her academic work with finding time to volunteer for Fossil Free MIT. She will also share her experiences working as a counselor at a summer camp, where she was faced with the challenge of confronting and educating her (all boy) campers regarding the racist and sexist jokes they made._
+_Rose Lenehan, a graduate student in the_ {{% resource_link "085d5ba9-e9da-4a29-afb7-b48826f54e9c" "_Philosophy_" %}} _department MIT, volunteers for the_ {{% resource_link "21f66984-84df-4ac2-a943-d9f7397188e1" "_Fossil Free MIT_" %}} _campaign. She will discuss her experience balancing her academic work with finding time to volunteer for Fossil Free MIT. She will also share her experiences working as a counselor at a summer camp, where she was faced with the challenge of confronting and educating her (all boy) campers regarding the racist and sexist jokes they made._
 
-_William Li, a graduate student in the_ [_Electrical Engineering & Computer Science Department_](http://www.eecs.mit.edu/) _at MIT. His focus is applying computer science and AI to health care, assistive technologies, and understanding human systems and technology. During the class, he will discuss his work with assistive technologies, particularly for wheelchair use._
+_William Li, a graduate student in the_ {{% resource_link "02326453-b0b0-4650-8e93-e1a4aa57e525" "_Electrical Engineering & Computer Science Department_" %}} _at MIT. His focus is applying computer science and AI to health care, assistive technologies, and understanding human systems and technology. During the class, he will discuss his work with assistive technologies, particularly for wheelchair use._
 
-_Mareena Robinson Snowden, a graduate student in the_ [_Department of Nuclear Science and Engineering_](http://web.mit.edu/nse/index.html) _at MIT, and a_ [_Department of Energy National Nuclear Security Administration Stewardship Science Doctoral Fellow_](http://nnsa.energy.gov/aboutus/ourprograms/defenseprograms/defensescienceuniversityprograms-1)_. She will talk about her work as president of the_ [_MIT Chapter of Global Zero_](http://globalzero.mit.edu/)_, an international organization dedicated to ultimately ridding the world of nuclear warheads._
+_Mareena Robinson Snowden, a graduate student in the_ {{% resource_link "ebca2dcf-d43a-4d24-b05f-12b8361b42dc" "_Department of Nuclear Science and Engineering_" %}} _at MIT, and a_ {{% resource_link "1763b2fc-8d00-4f00-9c50-7e0cf13a17f3" "_Department of Energy National Nuclear Security Administration Stewardship Science Doctoral Fellow_" %}}_. She will talk about her work as president of the_ {{% resource_link "8df91909-9d45-4380-937b-ce8c4087f389" "_MIT Chapter of Global Zero_" %}}_, an international organization dedicated to ultimately ridding the world of nuclear warheads._
 
 
 {{< tdclose >}}
