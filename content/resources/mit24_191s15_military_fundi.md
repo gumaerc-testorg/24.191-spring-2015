@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/6b8f532378330c009f9fe678bd55f0d3_MIT24_191S15_Military_Fundi.pdf
+file_size: 178158
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
