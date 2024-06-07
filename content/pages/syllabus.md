@@ -23,7 +23,7 @@ Course Description
 
 What is your responsibility to the global poor, the homeless, the disenfranchised? Is the death penalty morally permissible, and if so, under what conditions? Is it permissible for the state to contract with for - profit prisons? What sacrifices, if any, should we make to protect the environment? What is our right to use "natural resources," such as water? Is nuclear energy worth the risk? What moral and political issues are relevant when we choose what to eat?
 
-This course is a seminar made possible through a collaboration between {{% resource_link "0881ed58-b912-4b41-bf90-84064267c31c" "Radius" %}} and the {{% resource_link "085d5ba9-e9da-4a29-afb7-b48826f54e9c" "Philosophy" %}} section of MIT. The seminar is a place to build relationships, share resources, explore tools for solving ethical problems, and gain skills for clarifying your personal and vocational principles. Topics can vary depending on expressed interests of the group and current critical issues such as political change and movements, environmental and / or human catastrophe, global conflict, and local topics.
+This course is a seminar made possible through a collaboration between [Radius](http://radius.mit.edu/) and the [Philosophy](http://web.mit.edu/philosophy/) section of MIT. The seminar is a place to build relationships, share resources, explore tools for solving ethical problems, and gain skills for clarifying your personal and vocational principles. Topics can vary depending on expressed interests of the group and current critical issues such as political change and movements, environmental and / or human catastrophe, global conflict, and local topics.
 
 Requirements
 ------------

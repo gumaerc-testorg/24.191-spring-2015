@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/68eafb3860a0b8adb5464768c9a678cf_MIT24_191S15_Ecology.pdf
+file_size: 160493
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
