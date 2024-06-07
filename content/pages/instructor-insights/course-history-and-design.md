@@ -19,11 +19,11 @@ _In this section, Patricia-Maria Weinmann and Brendan de Kenessy share how the e
 
  
 
-{{% resource_link "6abd48fc-b5a9-44be-9439-6c44f63d5bcb" "Radius" %}} logo, capturing the forum's focus on "exploring the ethics at the center of science and technology."
+[Radius](http://radius.mit.edu) logo, capturing the forum's focus on "exploring the ethics at the center of science and technology."
 
 ## Beginning with Radius
 
-_24.191 Being, Thinking, Doing (Or Not!): Ethics in Your Life_ grew out of a partnership between the MIT Philosophy Department and the Technology and Culture Forum (now known as {{% resource_link "cb783dff-7909-488b-95ef-38f244e51daa" "Radius" %}}). At the time of its founding in the 1950s, the Technology and Culture Forum was primarily attended by faculty members committed to discussing ethical issues at the core of scientific and technological endeavors. During the time of the Vietnam War, however, there was a feeling that the Technology and Culture Forum needed to engage not only faculty, but also the wider MIT community in dialogues about how science and technology were shaping events in the world and how the community might work toward promoting a more just society. Fortunately, MIT emerged from that tumultuous era without any violence on campus, and since that time, the Technology and Culture Forum has involved the MIT community in thinking deeply about how ethics shape our work and how we live our lives.
+_24.191 Being, Thinking, Doing (Or Not!): Ethics in Your Life_ grew out of a partnership between the MIT Philosophy Department and the Technology and Culture Forum (now known as [Radius](http://radius.mit.edu/about)). At the time of its founding in the 1950s, the Technology and Culture Forum was primarily attended by faculty members committed to discussing ethical issues at the core of scientific and technological endeavors. During the time of the Vietnam War, however, there was a feeling that the Technology and Culture Forum needed to engage not only faculty, but also the wider MIT community in dialogues about how science and technology were shaping events in the world and how the community might work toward promoting a more just society. Fortunately, MIT emerged from that tumultuous era without any violence on campus, and since that time, the Technology and Culture Forum has involved the MIT community in thinking deeply about how ethics shape our work and how we live our lives.
 
 {{< quote "We thought it would be wonderful to create a course that would stretch students’ thinking about the role of ethics in everyday life, without stressing their minds and bodies." "—Patricia-Maria Weinmann" >}}
 

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/25038f181328cb6819e5bf702d7973ae_30-approx.png
+file_size: 2995
 file_type: image/png
 image_metadata:
   caption: ''
