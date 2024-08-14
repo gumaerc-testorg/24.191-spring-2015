@@ -92,7 +92,7 @@ Wolfers, Justin. "[All You Need to Know About Income Inequality, in One Comparis
 Ethical Sustainable Farming Practices
 {{< tdclose >}}{{< tdopen >}}
 
-[Chestnut Farms](http://chestnutfarm.org/).
+[Chestnut Farms](https://www.chestnutfarm.org/).
 
 [Why Eat Less Meat](http://www.whyeatlessmeat.com/).
 
