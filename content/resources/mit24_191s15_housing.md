@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/bcba2a44e01d98bb8cfc9e2f2f88f33f_MIT24_191S15_Housing.pdf
+file: /ol-ocw-studio-app/courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/bcba2a44e01d98bb8cfc9e2f2f88f33f_MIT24_191S15_Housing.pdf
 file_size: 86087
 file_type: application/pdf
 learning_resource_types:
