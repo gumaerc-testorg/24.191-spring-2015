@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/d9cc4ee0a3a62b89a5bc4da115eb2b9b_radius.jpg
+file: /ol-ocw-studio-app/courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/d9cc4ee0a3a62b89a5bc4da115eb2b9b_radius.jpg
 file_size: 22348
 file_type: image/jpeg
 image_metadata:
