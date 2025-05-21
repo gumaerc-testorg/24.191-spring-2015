@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/96e8f51c182344fd57a97a9ba9cb0862_MIT24_191S15_Meat.pdf
+file: /courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/96e8f51c182344fd57a97a9ba9cb0862_MIT24_191S15_Meat.pdf
 file_size: 159354
 file_type: application/pdf
 learning_resource_types: []
