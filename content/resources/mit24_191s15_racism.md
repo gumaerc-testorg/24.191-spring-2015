@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/f2ab921e6d37ce05470b88c36cb06910_MIT24_191S15_Racism.pdf
+file: /courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/f2ab921e6d37ce05470b88c36cb06910_MIT24_191S15_Racism.pdf
 file_size: 716098
 file_type: application/pdf
 learning_resource_types:
