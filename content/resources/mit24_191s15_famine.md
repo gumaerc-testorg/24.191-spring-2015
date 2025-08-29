@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/a5b493d54aa37ac282d2c79d3a1e7cbe_MIT24_191S15_Famine.pdf
+file: /ol-ocw-studio-app/courses/24-191-ethics-in-your-life-being-thinking-doing-or-not-spring-2015/a5b493d54aa37ac282d2c79d3a1e7cbe_MIT24_191S15_Famine.pdf
 file_size: 44862
 file_type: application/pdf
 learning_resource_types: []
