@@ -26,27 +26,27 @@ Introduction
 
 Midgely, Mary. "Trying Out One's New Sword." In *Doing Ethics: Moral Reasoning and Contemporary Issues*. 3rd ed. Edited by Louis Vaughn. W. W. Norton & Company, 2012. ISBN: 9780393919288.
 
-Žižek, Slavoj. "Ecology." In *Examined Life: Excursions with Contemporary Thinkers*. Edited by Astra Taylor. The New Press, 2009. ISBN: 9781595584472. \[Preview with [Google Books](http://books.google.com/books?id=4H7fL3PrvawC&pg=PAfrontcover)\]
+Žižek, Slavoj. "Ecology." In *Examined Life: Excursions with Contemporary Thinkers*. Edited by Astra Taylor. The New Press, 2009. ISBN: 9781595584472. \[Preview with {{% resource_link "3bef0a3b-cc94-48c8-a096-f4486d83c6fc" "Google Books" %}}\]
 
 *Transcripts of the discussions in the film "Examined Life" can be found in:*
 
-*Examined Life: Excursions with Contemporary Thinkers*. Edited by Astra Taylor. The New Press, 2009. ISBN: 9781595584472. \[Preview with [Google Books](http://books.google.com/books?id=4H7fL3PrvawC&pg=PAfrontcover)\]
+*Examined Life: Excursions with Contemporary Thinkers*. Edited by Astra Taylor. The New Press, 2009. ISBN: 9781595584472. \[Preview with {{% resource_link "3bef0a3b-cc94-48c8-a096-f4486d83c6fc" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
 Racial Profiling
 {{< tdclose >}}{{< tdopen >}}
-Coates, Ta-Nehisi. "[The Banality of Richard Cohen and Racist Profiling](http://www.theatlantic.com/national/archive/2013/07/the-banality-of-richard-cohen-and-racist-profiling/277871/)." *The Atlantic*, July 17, 2013.
+Coates, Ta-Nehisi. "{{% resource_link "9a5b9c15-92c4-49b6-822f-261331cf2992" "The Banality of Richard Cohen and Racist Profiling" %}}." *The Atlantic*, July 17, 2013.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 U.S. Criminal Punishment / Justice System
 {{< tdclose >}}{{< tdopen >}}
 
-Fried, Barbara H. "[Beyond Blame](http://www.bostonreview.net/forum/barbara-fried-beyond-blame-moral-responsibility-philosophy-law)." *Boston Review*, June 28, 2013.
+Fried, Barbara H. "{{% resource_link "bd6dc22b-5ca3-40bb-9c7c-d512a73a5b15" "Beyond Blame" %}}." *Boston Review*, June 28, 2013.
 
-Kelly, Erin. "[Response to 'Beyond Blame'](http://www.bostonreview.net/forum/beyond-blame/blame-corrupts-criminal-justice-system)." *Boston Review*, July 10, 2013.
+Kelly, Erin. "{{% resource_link "af272696-c529-43e8-adc9-2953271a9474" "Response to 'Beyond Blame'" %}}." *Boston Review*, July 10, 2013.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -58,17 +58,17 @@ Menninger, Karl. "The Crime of Punishment." In *Reason and Responsibility: Readi
 
 Lewis, C. S. "The Humanitarian Theory of Punishment." In *Reason and Responsibility: Readings in Some Basic Problems of Philosophy*. 9th ed. Edited by Joel Feinberg. Wadsworth, Inc., 1996.
 
-Stillman, Sarah. "[Get Out of Jail, Inc.](http://www.newyorker.com/magazine/2014/06/23/get-out-of-jail-inc)" *The New Yorker*, June 23, 2014.
+Stillman, Sarah. "{{% resource_link "ff064b54-a066-43ea-ab42-3598b4eae4b3" "Get Out of Jail, Inc." %}}" *The New Yorker*, June 23, 2014.
 
-Hedges, Chris. "[The Prison State of America](http://www.truthdig.com/report/item/the_prison_state_of_america_20141228)." Truthdig, December 28, 2014.
+Hedges, Chris. "{{% resource_link "8de88697-6741-4d9c-803d-4827ee838348" "The Prison State of America" %}}." Truthdig, December 28, 2014.
 
-Isaacs, Caroline. ["Treatment Industrial Complex: How For-Profit Prison Corporations are Undermining Efforts to Treat and Rehabilitate Prisoners for Corporate Gain." (PDF)](https://www.prisonpolicy.org/scans/afsc/tic_report_online.pdf) American Friends Service Committee, November 17, 2014.
+Isaacs, Caroline. {{% resource_link "0157d838-e23e-41e6-823c-a6dc1ef3e1b6" "\"Treatment Industrial Complex: How For-Profit Prison Corporations are Undermining Efforts to Treat and Rehabilitate Prisoners for Corporate Gain.\" (PDF)" %}} American Friends Service Committee, November 17, 2014.
 
-"[Private Prisons](https://www.aclu.org/issues/mass-incarceration/privatization-criminal-justice/private-prisons?redirect=prisoners-rights/private-prisons)." American Civil Liberties Union.
+"{{% resource_link "ffc09af7-56e4-48f0-b683-c62bd1c26c16" "Private Prisons" %}}." American Civil Liberties Union.
 
-[Critical Resistance](http://criticalresistance.org/).
+{{% resource_link "bfb58551-c112-4f78-829c-515a4afd0bce" "Critical Resistance" %}}.
 
-[The Sentencing Project: Research and Advocacy for Reform](https://www.sentencingproject.org/). Racial Disparity Committee, Association of State Correctional Administrators.
+{{% resource_link "7b3212d7-0bb1-4c7e-b32d-25eccecdc6f3" "The Sentencing Project: Research and Advocacy for Reform" %}}. Racial Disparity Committee, Association of State Correctional Administrators.
 
 {{% resource_link "d025814e-2213-3886-94e9-1a159635cac3" "Punishment and Justice Handout (PDF)" %}}
 
@@ -78,13 +78,13 @@ Isaacs, Caroline. ["Treatment Industrial Complex: How For-Profit Prison Corporat
 Military Spending, Federal Spending; Universities' Research Budgets and Dollars Spent
 {{< tdclose >}}{{< tdopen >}}
 
-Ghoshroy, Subrata. ["The 'Star Wars' Project — My Struggle as a Participant and My Decision to Blow the Whistle." (PDF - 1.4MB)](https://radius.mit.edu/sites/default/files/documents/Subrata%20Ghoshroy's%20%2522Star%20Wars%2522.pdf) 2015.
+Ghoshroy, Subrata. {{% resource_link "4e45801a-0307-47d1-90f2-8a8d376e3589" "\"The 'Star Wars' Project — My Struggle as a Participant and My Decision to Blow the Whistle.\" (PDF - 1.4MB)" %}} 2015.
 
-Gillis, Justin. "[Bill Gates and Other Business Leaders Urge U.S. to Increase Energy Research](http://www.nytimes.com/2015/02/24/us/top-us-business-leaders-urge-increased-energy-research.html?_r=1)," *New York Times*, February 23, 2015.
+Gillis, Justin. "{{% resource_link "eb57ffb0-a237-4014-94af-efec7c7b607b" "Bill Gates and Other Business Leaders Urge U.S. to Increase Energy Research" %}}," *New York Times*, February 23, 2015.
 
-Wolfers, Justin. "[All You Need to Know About Income Inequality, in One Comparison](http://www.nytimes.com/2015/03/14/upshot/wall-street-bonuses-vs-total-earnings-of-full-time-minimum-wage-workers.html?abt=0002&abg=0)," *New York Times*, March 13, 2015.
+Wolfers, Justin. "{{% resource_link "97402bf6-3e7a-434b-8938-9a1b080a7dbe" "All You Need to Know About Income Inequality, in One Comparison" %}}," *New York Times*, March 13, 2015.
 
-[Science for the People](http://science-for-the-people.org/).
+{{% resource_link "c4895c98-68ed-41b7-a6fb-cd8fff51b642" "Science for the People" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -92,9 +92,9 @@ Wolfers, Justin. "[All You Need to Know About Income Inequality, in One Comparis
 Ethical Sustainable Farming Practices
 {{< tdclose >}}{{< tdopen >}}
 
-[Chestnut Farms](https://www.chestnutfarm.org/).
+{{% resource_link "1ed782d4-f828-4371-9de1-b9c8d0aae972" "Chestnut Farms" %}}.
 
-[Why Eat Less Meat](http://www.whyeatlessmeat.com/).
+{{% resource_link "0297bdc3-bdd1-4eab-bedb-ea8994dbdfb3" "Why Eat Less Meat" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -102,8 +102,8 @@ Ethical Sustainable Farming Practices
 Gender and Gaming
 {{< tdclose >}}{{< tdopen >}}
 
-Alexander, Leigh. "[A Game is Being Beaten](http://thenewinquiry.com/essays/a-game-is-being-beaten/)." *The New Inquiry*, March 10, 2014.
+Alexander, Leigh. "{{% resource_link "269a6328-b549-4f09-870e-102947b933a6" "A Game is Being Beaten" %}}." *The New Inquiry*, March 10, 2014.
 
-———. "[Playing Outside](http://thenewinquiry.com/essays/playing-outside/)." *The New Inquiry*, June 17, 2013.
+———. "{{% resource_link "69e6942a-fe97-49cb-85e9-8ef81b2b5993" "Playing Outside" %}}." *The New Inquiry*, June 17, 2013.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
